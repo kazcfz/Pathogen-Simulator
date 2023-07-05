@@ -1,0 +1,24 @@
+﻿  Bacteria.cpp
+  Events.cpp
+  ModeList.cpp
+  Fungus.cpp
+  main.cpp
+D:\Users\Kazumasa Chong\source\repos\ProgrammingProject2\ProgrammingProject2\main.cpp(247,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ModeNode.cpp
+  Pathogen.cpp
+  EvolveNode.cpp
+  EvolveTree.cpp
+  StrategyBase.cpp
+  StrategyContext.cpp
+  StrategySortAsc.cpp
+  StrategySortDesc.cpp
+  Virus.cpp
+  VisitorBase.cpp
+  VisitorDevolve.cpp
+  VisitorEXPIncrement.cpp
+  VisitorRead.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 513 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProgrammingProject2.vcxproj -> D:\Users\Kazumasa Chong\source\repos\ProgrammingProject2\Release\ProgrammingProject2.exe
