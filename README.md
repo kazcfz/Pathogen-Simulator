@@ -10,6 +10,11 @@ Similarly, you begin with patient zero and evolve to spread and eradicate all of
 - Progress logging
 <br><br>
 
+## Downloads
+- [Windows Portable exe](https://github.com/kazcfz/Pathogen-Simulator/releases/download/v1.0.0/PathogenSimulator.exe)
+_*Browsers and Windows may warn you about downloading and running it_
+<br><br>
+
 ## Concept / Screenshot Preview
 ![](https://i.imgur.com/hlmsenQ.png)
 
