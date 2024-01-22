@@ -1,16 +1,20 @@
-# Pathogen-Simulator
-COS30008 Data Structures and Patterns: Programming Project 2
+# Pathogen Simulator
+CLI / text-based simulator game inspired by [Plague Inc.](https://www.ndemiccreations.com/en/22-plague-inc)
+Similarly, you begin with patient zero and evolve to spread and eradicate all of humanity
+<br><br>
 
-A simple CLI game written in C++. Focusses on implementing various data structures and patterns.
+## Features
+- Choose between Virus, Bacteria, Fungus
+- Evolve/Devolve to learn/forget varieties of infectious and lethal symptoms
+- Randomly occuring events to increase the spread (like Pokemon Go gatherings)
+- Progress logging
+<br><br>
 
-Includes:
-- Inheritance and Derived classes
-- Polymorphism
-- Array
-- Singly Linked-List
-- Stack
-- Queue
-- Tree
-- Abstract Data Type
-- Visitor
-- Strategy
+## Concept / Screenshot Preview
+![](https://i.imgur.com/hlmsenQ.png)
+
+![](https://i.imgur.com/kolQutf.png)
+
+![](https://i.imgur.com/Wy339eX.png)
+
+![](https://i.imgur.com/GNZ0yl6.png)
